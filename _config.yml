@@ -102,7 +102,7 @@ analytics:
 # Site Author
 author:
   name             : Park Seoeun
-  avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
+  avatar           :  "/assets/image/b570aa1f908046b396d172ece914d5c2.png"
   bio              : "^_^"
   location         : "대한민국, 김포"
   email            :
